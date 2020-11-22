@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Nitya
 #### I am GitHub Readme Generator's creator !
 
-I'm an Integrated  Mtech software engineering who is passionate about coding, 
+I'm an Integrated  Mtech software engineering student who is passionate about coding, 
 
 contributing to open source projects, and building community. 
 
@@ -14,7 +14,8 @@ contributing to open source projects, and building community.
 
 - 👯 I’m looking to collaborate on open source projects.  
 
-- 📫 How to reach me: And of course GitHub you're already on (Recursion). paladugunitya@gmail.com 
+- 📫 How to reach me: And of course GitHub you're already on (Recursion).
+                       Gmail:paladugunitya@gmail.com 
 
 - ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/  
 
