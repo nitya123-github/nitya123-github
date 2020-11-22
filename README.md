@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**nitya123-github/nitya123-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![1_oUBIXuxlCuswqeQrHM9Y6g](https://user-images.githubusercontent.com/53599318/99911654-edaf7d00-2d1b-11eb-8b33-396bff4a7575.gif)
 
-Here are some ideas to get you started:
+### Hi there 👋, my name is Nitya
+#### I am GitHub Readme Generator's creator !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Integrated  Mtech software engineering who is passionate about coding, 
+
+contributing to open source projects, and building community. 
+
+<h4> Skills: SQL/DATA SCIENCE / PYTHON / ANDROID STUDIO/ HTML / CSS  </h4>
+
+- 🌱 I’m currently learning and exploring the latest technologies, improving my coding skills. 
+
+- 👯 I’m looking to collaborate on open source projects.  
+
+- 📫 How to reach me: And of course GitHub you're already on (Recursion). paladugunitya@gmail.com 
+
+- ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/  
+
+
+
+
