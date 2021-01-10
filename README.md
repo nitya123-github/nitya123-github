@@ -4,9 +4,9 @@
 ### Hi there 👋, my name is Nitya
 #### I am GitHub Readme Generator's creator !
 
-I'm an Integrated  Mtech software engineering student who is passionate about coding, 
-
+I'm an Integrated  Mtech software engineering student who is passionate about coding , 
 contributing to open source projects, and building community. 
+Active member in participation of open source programs like @Hactoberfest, @ MLH hackathon, @ DWOC , @SWOC, @Crio.
 
 <h4> Skills: SQL/DATA SCIENCE / PYTHON / ANDROID STUDIO/ HTML / CSS  </h4>
 
