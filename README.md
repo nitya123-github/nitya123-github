@@ -15,7 +15,9 @@ Active member in participation of open source programs like @Hactoberfest, @ MLH
 - 👯 I’m looking to collaborate on open source projects.  
 
 - 📫 How to reach me: And of course GitHub you're already on (Recursion).
+
                        Gmail:paladugunitya@gmail.com 
+                       
                        Developer website: https://www.codegrepper.com/app/profile.php?id=139732
 
 - ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/  
