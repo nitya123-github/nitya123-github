@@ -23,5 +23,4 @@ Active member in participation of open source programs like @Hactoberfest, @ MLH
 - ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/  
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitya123-github&show_icons=true&theme=radical)
