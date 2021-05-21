@@ -23,7 +23,7 @@ Active member in participation of open source programs like @Hacktoberfest, @ ML
 
 - ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/ 
 
-- Earned a Developer badge for contributing to open source projects in Hacktoberfest  <a href="https://dev.to/nitya123github">
+- Earned a Dev Community Badge for contributing to open source projects in Hacktoberfest  <a href="https://dev.to/nitya123github">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nitya's DEV Community Profile" height="30" width="30">
 </a>
 
