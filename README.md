@@ -28,10 +28,14 @@ Active member in participation of open source programs like @Hacktoberfest, @ ML
 </a>
 
 
-![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitya123-github&show_icons=true&theme=radical)
+<!--![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515&card_width="450")
+<!--<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'>  -->
+<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya123-github&theme=radical" alt="nitya" width="400" /></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitya123-github&show_icons=true&locale=en&theme=blue-green" alt="nitya" width="400" /></p>  
+<!--<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya123-github&" alt="nitya" /></p>-->
 
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nitya-123}/count.svg" /></p> 
+<br><p align="left"><b>Visitors Count</b></p>  
+<p align="Center"><img align="center" src="https://profile-counter.glitch.me/{nitya-123}/count.svg" /></p> 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
 
