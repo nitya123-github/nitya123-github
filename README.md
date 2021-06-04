@@ -34,7 +34,7 @@ Active member in participation of open source programs like @Hacktoberfest, @ ML
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitya123-github&show_icons=true&locale=en&theme=blue-green" alt="nitya" width="400" /></p>  
 <!--<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya123-github&" alt="nitya" /></p>-->
 
-<br><p align="left"><b>Visitors</b></p>  
+<br><p align="Center"><b>Visitors</b></p>  
 <p align="Center"><img align="center" src="https://profile-counter.glitch.me/{nitya-123}/count.svg" /></p> 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
 
