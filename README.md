@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nitya 
+### Hi there 👋  I'm Nitya 
 Software Engineer @ Bank of America
 
 Developer & SDET with expertise in .NET, Angular, MSSQL
@@ -9,10 +9,9 @@ Building reliable, scalable, and well-tested applications
 
 - 👯 I’m looking to collaborate on open source projects.  
 
-- 📫 How to reach me: And of course GitHub you're already on (Recursion).
+- 📫 How to reach me: 
 
     Gmail:  paladugunitya@gmail.com 
-                       
     Developer website: https://www.codegrepper.com/app/profile.php?id=139732
 
 - ⚡ Fun fact: your future employee on https://www.linkedin.com/in/nityasree-paladugu/ 
