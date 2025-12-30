@@ -1,15 +1,9 @@
-
-![1_oUBIXuxlCuswqeQrHM9Y6g](https://user-images.githubusercontent.com/53599318/99911654-edaf7d00-2d1b-11eb-8b33-396bff4a7575.gif)
-
 ### Hi there 👋, my name is Nitya 
+Software Engineer @ Bank of America
 
-#### I am GitHub Readme Generator's creator !
-
-I'm an Integrated  Mtech software engineering student who is passionate about coding , 
-contributing to open source projects, and building community. 
-Active member in participation of open source programs like @Hacktoberfest, @ MLH hackathon, @ DWOC .
-
-<h4> Skills: SQL/DATA SCIENCE / PYTHON / ANDROID STUDIO/ HTML / CSS  </h4>
+Developer & SDET with expertise in .NET, Angular, MSSQL
+Automation & performance testing using Selenium, JMeter, RAFT
+Building reliable, scalable, and well-tested applications
 
 - 🌱 I’m currently learning and exploring the latest technologies, improving my coding skills. 
 
@@ -39,9 +33,6 @@ Active member in participation of open source programs like @Hacktoberfest, @ ML
 
 <!--<p align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya123-github&" alt="nitya" /></p>-->
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
